@@ -1,0 +1,18 @@
+{
+  "readme_path": "../../README.md",
+  "repository": "https://github.com/MarcoIeni/release-plz",
+  "social": {
+    "twitter_account": "@MarcoIeni"
+  },
+  "static_dir": "../../docs",
+  "changelog": true,
+  "styles": {
+    "theme": "dark"
+  },
+  "mdbook": {
+    "path": "../../docs"
+  },
+  "funding": {
+    "path": "../../.github/FUNDING.yml"
+  }
+}
